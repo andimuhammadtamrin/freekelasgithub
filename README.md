@@ -24,6 +24,7 @@ Untuk menuliskan data diri Anda, silakan gunakan format markdown. Jika Anda belu
  * Afif Arman (Pontianak, Kalimantan Barat)
  * Achmad Yunus (Kulonprogo, D.I.Y.)
  * Alfian Hidayat [github](https://github.com/alfianguide) (Demak, Jawa Tengah)
+ * Andi Muhammad Tamrin [github](https://github.com/andimuhammadtamrin) (Makassar, Sulawesi Selatan)
 
 ### B
 
